@@ -1,5 +1,5 @@
 👋 Hi, I’m Christopher Nguyen
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me: email
 
 <!---
